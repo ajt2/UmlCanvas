@@ -14,7 +14,16 @@ body {
 }
 
 a, a:visited, a:active, h1 {
-  color: #00aee2;
+  color: #f3a662;
+}
+
+h2 {
+ color: #808184;
+ font: 100%/normal arial, helvetica, sans-serif;
+ left: 25px;
+ position: relative;
+ top: -20px;
+ width: 300px; 
 }
 
 ul.menu {
@@ -34,5 +43,5 @@ div.notice {
   padding: 10px;
   margin-top: 40px;
   border: 1px solid #666;
-  background-color: #98e6fd;
+  background-color: #fbecdf;
 }
