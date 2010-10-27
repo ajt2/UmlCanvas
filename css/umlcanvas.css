@@ -28,7 +28,7 @@ h2 {
 
 ul.menu {
   padding: 0;
-  margin-top: 50px;
+  margin-top: 20px;
 	list-style-type: none; 
 	list-style-image: none; 
 }
@@ -44,4 +44,33 @@ div.notice {
   margin-top: 40px;
   border: 1px solid #666;
   background-color: #fbecdf;
+}
+#intro {
+  width: 630px;
+  border-bottom: 1px solid #aaa;
+  padding-bottom: 20px;
+}
+
+#what {
+  float: left;
+  width: 400px; 
+  height: 150px;
+  text-align: left;
+}
+
+#download {
+  display: inline-block;
+  width: 200px;
+  height: 150px;
+  border-left: 1px solid #aaa;
+  margin-left: 20px;
+}
+
+#download h3 {
+  font: 100%/normal arial, helvetica, sans-serif;
+}
+
+#download h4 {
+  text-align: right;
+  font: 70%/normal arial, helvetica, sans-serif;
 }
